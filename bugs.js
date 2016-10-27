@@ -14,3 +14,5 @@ var obj = {
   size: 105,
   name: 'noname'
 }
+
+var unused;
