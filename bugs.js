@@ -1,13 +1,3 @@
-function loadingClose(obj, finalize) {
-
-}
-
-function loadingClose(obj) {
-
-}
-
-
-
 var obj = {
  name: 'name',
   age: 15,
@@ -15,4 +5,8 @@ var obj = {
   name: 'noname'
 }
 
+function loadingClose(obj, finalize) {
+}
 
+function loadingClose(obj) {
+}
