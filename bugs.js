@@ -14,14 +14,7 @@ var obj = {
   age: 15,
   size: 105,
   name: 'noname'
+  }
 }
 
-
-var value = function (a, b) {
-  nextFunc(a, b);
-}
-
-value.prototype.nextFunc = function () {
-  return 'next'; 
-}
 
