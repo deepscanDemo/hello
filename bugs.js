@@ -15,4 +15,4 @@ var obj = {
   name: 'noname'
 }
 
-var unused;
+var unused = a;
