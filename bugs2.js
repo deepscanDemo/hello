@@ -4,10 +4,10 @@ var obj2 = {
   name: 'noname'
 }
 
-function func(a) {
-  var b;
+function func() {
+  var a;
   if (typeof a === 'undefined') {
-    b = a;
+    a = 2;
   }
 }
 
