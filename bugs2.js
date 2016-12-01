@@ -1,5 +1,12 @@
+var obj2 = {
+  name: 'name',
+  age: 15,
+  size: 105,
+  name: 'noname'
+}
 
-var _ = require('underscore');
-var path = require('path')
-var Promise = require('bluebird');
+function duplicateFunc(obj, finalize) {
+}
 
+function duplicateFunc(obj) {
+}
