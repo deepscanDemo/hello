@@ -1,12 +1,14 @@
 var obj2 = {
-  name: 'name',
   age: 15,
   size: 105,
   name: 'noname'
 }
 
-function duplicateFunc(obj, finalize) {
+function func(a) {
+  var b;
+  if (typeof a === 'undefined') {
+    b = a;
+  }
 }
 
-function duplicateFunc(obj) {
-}
+
