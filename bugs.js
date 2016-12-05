@@ -1,5 +1,4 @@
 var obj = {
-  name: 'deepscan',
   age: 15,
   size: 105,
   name: 'noname'
@@ -8,5 +7,3 @@ var obj = {
 function loadingClose(obj, finalize) {
 }
 
-function loadingClose(obj) {
-}
