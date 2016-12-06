@@ -1,8 +1,12 @@
 var obj = {
   name: 'deepscan',
   age: 15,
-  size: 105
+  size: 105,
+  name: 'noname'
 }
 
 function loadingClose(obj, finalize) {
+}
+
+function loadingClose(obj) {
 }
